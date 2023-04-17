@@ -9,14 +9,14 @@ function Footer() {
       <div className="bg-indigo-600 dark:bg-indigo-900">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-gray-50 text-sm text-center sm:text-left">
-            © {year} Shutter_Codes—
+            © {year} Shutter_Codes —
             <a
               href=""
               rel="noopener noreferrer"
               className="text-gray-50 ml-1"
               target="_blank"
             >
-              @Naitik
+              @ Naitik
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
